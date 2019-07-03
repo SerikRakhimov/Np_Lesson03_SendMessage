@@ -1,0 +1,15 @@
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\bin\Debug\SendMessageClient.exe.config
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\bin\Debug\SendMessageClient.exe
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\bin\Debug\SendMessageClient.pdb
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\MainWindow.g.cs
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\App.g.cs
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient_MarkupCompile.cache
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient_MarkupCompile.lref
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\MainWindow.baml
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.g.resources
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.Properties.Resources.resources
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.csproj.GenerateResource.cache
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.exe
+c:\users\рахимовс\source\repos\SendMessageClient\SendMessageClient\obj\Debug\SendMessageClient.pdb

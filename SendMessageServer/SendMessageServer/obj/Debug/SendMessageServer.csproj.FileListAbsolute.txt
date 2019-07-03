@@ -1,0 +1,7 @@
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\obj\Debug\SendMessageServer.csprojAssemblyReference.cache
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\obj\Debug\SendMessageServer.csproj.CoreCompileInputs.cache
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\bin\Debug\SendMessageServer.exe.config
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\bin\Debug\SendMessageServer.exe
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\bin\Debug\SendMessageServer.pdb
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\obj\Debug\SendMessageServer.exe
+c:\users\рахимовс\source\repos\SendMessageServer\SendMessageServer\obj\Debug\SendMessageServer.pdb
